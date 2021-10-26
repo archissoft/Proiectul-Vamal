@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E8FBC6B272845BB00C8FDED /* CarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E8FBC6A272845BA00C8FDED /* CarView.swift */; };
 		9EE33C772728399600BD463A /* vamaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EE33C762728399600BD463A /* vamaApp.swift */; };
 		9EE33C792728399600BD463A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9EE33C782728399600BD463A /* ContentView.swift */; };
 		9EE33C7B2728399800BD463A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9EE33C7A2728399800BD463A /* Assets.xcassets */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9E8FBC6A272845BA00C8FDED /* CarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CarView.swift; sourceTree = "<group>"; };
 		9EE33C732728399600BD463A /* vama.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = vama.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EE33C762728399600BD463A /* vamaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = vamaApp.swift; sourceTree = "<group>"; };
 		9EE33C782728399600BD463A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -96,6 +98,7 @@
 			children = (
 				9EE33C762728399600BD463A /* vamaApp.swift */,
 				9EE33C782728399600BD463A /* ContentView.swift */,
+				9E8FBC6A272845BA00C8FDED /* CarView.swift */,
 				9EE33C7A2728399800BD463A /* Assets.xcassets */,
 				9EE33C7C2728399800BD463A /* Preview Content */,
 			);
@@ -259,6 +262,7 @@
 			files = (
 				9EE33C792728399600BD463A /* ContentView.swift in Sources */,
 				9EE33C772728399600BD463A /* vamaApp.swift in Sources */,
+				9E8FBC6B272845BB00C8FDED /* CarView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
